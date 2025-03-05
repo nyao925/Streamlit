@@ -1,0 +1,73 @@
+{
+    "title": "个人介绍 - Yao Ning",
+    "role": "技术顾问 | AI & 云计算专家",
+    "description": {
+        "intro": [
+            "💼 目前在 **DXC Japan** 担任 Associate Manager",
+            "🎯 负责 **ServiceNow** 产品的技术咨询与开发，并领导 6 人开发团队",
+            "🤖 在公司内开发 **DXCJ Chat AI 助手**，提供会议纪要自动生成、邮件回复自动化等功能",
+            "💻 擅长 **Azure、Power Platform、Oracle APEX、Python、Java、JavaScript**",
+            "🚀 过往经验包括 **Microsoft Japan、IBM Japan、FITEC**，专注于云计算与 AI 解决方案"
+        ],
+        "career": {
+            "title": "履历",
+            "items": [
+                "**2023年9月 - 至今** DXC Technology Japan",
+                "**2022年12月 - 2023年8月** 日本微软 - 负责PowerPlatform技术支持、讲师和技术支援",
+                "**2021年10月 - 2022年11月** 日本IBM - 负责EI-Core的开发，担任开发团队的副负责人",
+                "**2017年4月 - 2021年9月** FITEC - 负责AI、云计算及工厂自动化系统开发，曾担任多个项目的副负责人"
+            ]
+        },
+        "projects": {
+            "title": "项目经历",
+            "items": [
+                "**智能办公系统开发**：基于云平台开发智能办公系统，整合AI助手，实现语音交互和任务自动化。",
+                "**制造业信息系统开发**：参与企业级信息管理系统的开发，优化生产数据管理流程。",
+                "**AI 视觉检测系统**：利用深度学习技术开发视觉检测系统，实现产品质量自动化检测。",
+                "**跨平台物品管理应用**：基于PaaS/FaaS架构开发跨平台移动应用，支持iOS、Android、Web和桌面端。"
+            ]
+        },
+        "education": {
+            "title": "学习经历",
+            "items": [
+                "**2014年4月 - 2016年9月** 东京海洋大学大学院 - 海洋科学技術研究科　硕士"
+            ]
+        },
+        "certifications": {
+            "title": "职业证书",
+            "items": [
+                "ServiceNow - IT Service Management",
+                "ServiceNow Certified Application Developer",
+                "ServiceNow 認定システム管理者",
+                "Microsoft Power Platform Solution Architect Expert",
+                "Microsoft Power Platform Developer Associate",
+                "Microsoft Power Platform App Maker Associate",
+                "Microsoft Power Platform Fundamentals",
+                "Microsoft Azure Developer Associate",
+                "Microsoft Azure AI Engineer Associate",
+                "Microsoft Azure Data Fundamentals",
+                "Microsoft Azure AI Fundamentals",
+                "Microsoft Azure Fundamentals",
+                "IBM Certified Advocate - Cloud v2",
+                "IBM Garage Essentials",
+                "Java SE 8 Programmer",
+                "Oracle Java Programmer Silver",
+                "ITIL Foundation Certification"
+            ]
+        }
+    },
+    "skills": {
+        "title": "### 技术栈",
+        "categories": {
+            "languages": ["Python", "Java", "JavaScript", "C#"],
+            "frameworks": ["Spring", "Angular", "React"],
+            "cloud": ["Azure", "AWS", "Power Platform"],
+            "ai": ["TensorFlow", "PyTorch"]
+        }
+    },
+    "contact": "### 联系方式",
+    "email": "📧 邮箱：yaoning@example.com",
+    "linkedin": "🔗 [LinkedIn](https://www.linkedin.com/in/yaoning)",
+    "company": "🏢 [DXC Japan](https://www.dxc.com)",
+    "welcome": "欢迎访问我的个人介绍页面！"
+}
