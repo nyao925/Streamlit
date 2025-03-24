@@ -68,5 +68,16 @@
     "email": "📧 メール：lssac0925@hotmail.com",
     "linkedin": "🔗 [LinkedIn](https://www.linkedin.com/in/ning-yao-86533719a/)",
     "company": "🏢 [DXC Japan](https://www.dxc.com)",
-    "welcome": "私の自己紹介ページへようこそ！"
+    "welcome": "私の自己紹介ページへようこそ！",
+    "tools": {
+        "title": "ツール",
+        "categories": {
+            "mypage": {
+                "name": "マイページ"
+            },
+            "xhs": {
+                "name": "小紅書文章生成器"
+            }
+        }
+    }
 }
