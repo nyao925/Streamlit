@@ -151,7 +151,7 @@ soupsieve==2.5
 SQLAlchemy==2.0.23
 stack-data==0.6.3
 statsmodels==0.14.0
-streamlit==1.28.2
+streamlit==1.43.0
 tenacity==8.2.3
 terminado==0.18.0
 tiktoken==0.6.0
